@@ -1,5 +1,6 @@
 # Food order app
 
+### This food ordering app adds items into cart. User can view added cart items in modal popup, can add or remove items from cart. Based on amount total value of item and overall value of cart changes.  
 ![](src/images/food-order-app.png)
 
 ## Create new React app
