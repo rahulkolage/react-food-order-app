@@ -1,5 +1,7 @@
 # Food order app
 
+![](src/images/food-order-app.png)
+
 ## Create new React app
 ### https://reactjs.org/docs/create-a-new-react-app.html
 
